@@ -33,4 +33,4 @@ Solved using:
 
 ## Live Demo
 
-https://your-project-name.vercel.app
+https://fake-store-react-app-six.vercel.app/
